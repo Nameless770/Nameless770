@@ -57,8 +57,17 @@ front, Node on the back, PostgreSQL or MongoDB behind it.
 
 <p>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nameless770&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nameless770&theme=transparent" alt="Top languages" />
 </p>
+
+---
+
+## 🐍 GitHub Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nameless770/Nameless770/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nameless770/Nameless770/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Nameless770/Nameless770/output/github-snake.svg" />
+</picture>
 
 ---
 
