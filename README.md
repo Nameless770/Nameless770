@@ -1,11 +1,15 @@
 # 👋 Hi, I'm Mahmoud Khaled — `@Nameless770`
 
+<img align="right" height="210" alt="Developer buried in languages" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
+
 💻 Full-stack web developer. I build applications where the hard part isn't the screens —
 it's the rules underneath them: permissions that hold, money that doesn't drift, and data
 that stays where it's supposed to.
 
 ⚡ Most of what I write is TypeScript and JavaScript on the web: React and Next.js on the
 front, Node on the back, PostgreSQL or MongoDB behind it.
+
+<br clear="both" />
 
 ---
 
