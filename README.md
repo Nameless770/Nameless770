@@ -53,10 +53,10 @@ front, Node on the back, PostgreSQL or MongoDB behind it.
 
 ---
 
-## 📊 Stats
+## 📊 Most Used Languages
 
 <p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nameless770&theme=transparent" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless770&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages, by percentage" />
 </p>
 
 ---
